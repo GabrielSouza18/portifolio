@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Vite
 - Sass
-- Git e Github
+- Git e Githubb
 
 ## 💻 Projeto
 - [Projeto Finalizado](https://gabrielsouza18.github.io/Ufilm/)
