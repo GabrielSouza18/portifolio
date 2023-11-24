@@ -1,8 +1,8 @@
 
-<p align="center">
+<h1 align="center">
 Portifolio <br/>
 
-</p>
+</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Vite
 - Sass
-- Git e Githubb
+- Git e Github
 
 ## 💻 Projeto
 - [Projeto Finalizado](https://gabrielsouza18.github.io/Ufilm/)
